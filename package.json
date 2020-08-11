@@ -1,6 +1,6 @@
 {
     "name": "ia",
-    "description": "Theme for ismaeelakram.com, based on Casper",
+    "description": "Theme for IsmaeelAkram.com, based on Casper",
     "version": "3.0.11",
     "engines": {
         "ghost": ">=3.0.0",
